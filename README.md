@@ -1,4 +1,7 @@
-# os-webrtc-janus
+# os-webrtc-janus-sware-mod
+
+Forked from Misterblue/os-webrtc-janus for the purpose of modifying to support
+NGC. If you want the opensim version, please visit Misterblue's repo.
 
 Addon-module for [OpenSimulator] to provide webrtc voice support
 using Janus-gateway.
